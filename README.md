@@ -26,18 +26,9 @@
 
 <p align="center">
   <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/yourinstagram" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://twitter.com/yourtwitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
+  <a href="[https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/aniket-tiwari-a89142289/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://instagram.com/yourinstagram](https://www.instagram.com/anikettiwari8989/)" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
----
-
-### 🛠️ Tech Stack:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,nodejs,mysql,flask,bootstrap,git,github,figma,streamlit,tensorflow,keras,pandas,numpy,matplotlib,powerbi,canva" />
-</p>
 
 ---
 
@@ -68,19 +59,14 @@
 
 > 🚀 Always curious, always building!
 
+---
+## 💻 Tech Stack
 
-
-## 🤝 Connect with me
-
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,nodejs,mysql,flask,bootstrap,git,github,figma,streamlit,tensorflow,keras,pandas,numpy,matplotlib,powerbi,canva" />
+</p>
 
 ---
-
-## 💻 Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
