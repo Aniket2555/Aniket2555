@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  <a href="[https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/aniket-tiwari-a89142289/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[[https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/aniket-tiwari-a89142289/)](https://www.linkedin.com/in/aniket-tiwari-a89142289/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="[https://instagram.com/yourinstagram](https://www.instagram.com/anikettiwari8989/)" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 
