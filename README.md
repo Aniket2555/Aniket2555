@@ -1,11 +1,74 @@
-# Hi, I'm Aniket Tiwari! 👋
-
-![Profile views](https://komarev.com/ghpvc/?username=AniketTiwari&label=Profile%20views&color=0e75b6&style=flat) 
-![Followers](https://img.shields.io/github/followers/AniketTiwari?label=Followers&style=social)
-
-## Always Learning
+<h1 align="center">Hi 👋, I'm Aniket Tiwari</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Budding+Data+Scientist;IIIT+Bhopal+Undergrad;ML+%7C+DL+Enthusiast;Always+Learning..." alt="Typing SVG" />
+</h3>
 
 ---
+
+### 📈 Github Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aniket2555&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Aniket2555?label=Followers&style=social" alt="GitHub Followers"/>
+</p>
+
+---
+
+### 🧑‍💻 About Me:
+- 🎓 B.Tech in Computer Science (IIIT Bhopal)
+- 📚 Learning Machine Learning, Deep Learning, Data Engineering
+- 🤝 Open to collaboration on AI/ML/Data Science projects
+- ✍️ Sharing knowledge through articles, notebooks, and tutorials
+
+---
+
+### 🌐 Connect with me:
+
+<p align="center">
+  <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/yourinstagram" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://twitter.com/yourtwitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,nodejs,mysql,flask,bootstrap,git,github,figma,streamlit,tensorflow,keras,pandas,numpy,matplotlib,powerbi,canva" />
+</p>
+
+---
+
+### 📊 GitHub Contribution Graph:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniket2555&theme=react-dark&area=true&hide_border=true" alt="Aniket's Activity Graph" />
+</p>
+
+---
+
+### 📈 GitHub Stats:
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aniket2555&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket2555&theme=radical" />
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+> 🚀 Always curious, always building!
+
+
 
 ## 🤝 Connect with me
 
