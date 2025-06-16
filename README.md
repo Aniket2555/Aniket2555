@@ -118,4 +118,4 @@
 ---
 
 > #### Q. Which programming language is the shortest?  
-> **A. HTML.** Because it doesn't have a neck between its **head** and **body**. 😄
+> **A. Pyhton.** Because it doesn't bite. 😄
