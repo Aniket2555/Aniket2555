@@ -35,7 +35,7 @@
 ### 📊 GitHub Contribution Graph:
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniket2555&theme=react-dark&area=true&hide_border=true" alt="Aniket's Activity Graph" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniket2555&theme=react-dark&area=true&hide_border=true&dummy=20250616" />
 </p>
 
 ---
