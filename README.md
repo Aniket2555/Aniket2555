@@ -5,15 +5,6 @@
 
 ---
 
-### 📈 Github Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aniket2555&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/Aniket2555?label=Followers&style=social" alt="GitHub Followers"/>
-</p>
-
----
-
 ### 🧑‍💻 About Me:
 - 🎓 B.Tech in Computer Science (IIIT Bhopal)
 - 📚 Learning Machine Learning, Deep Learning, Data Engineering
@@ -29,23 +20,6 @@
   <a href="https://www.linkedin.com/in/aniket-tiwari-a89142289/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/anikettiwari8989/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-
----
-
-### 📊 GitHub Contribution Graph:
-
-<p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniket2555&theme=react-dark&area=true&hide_border=true&dummy=20250616" />
-</p>
-
----
-
-### 📈 GitHub Stats:
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aniket2555&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket2555&theme=radical" />
-</p>
 
 ---
 
