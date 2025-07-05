@@ -86,10 +86,5 @@
 
 ---
 
-## 💻 Workspace
-![Apple](https://img.shields.io/badge/Apple-Macbook%20Pro%202024-lightgrey?style=for-the-badge&logo=apple&logoColor=black)
-
----
-
 > #### Q. Which programming language is the shortest?  
 > **A. Pyhton.** Because it doesn't bite. 😄
