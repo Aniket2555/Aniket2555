@@ -13,22 +13,21 @@
 
 ---
 
-### 🌐 Connect with me:
-
-<p align="center">
-  <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/aniket-tiwari-a89142289/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/anikettiwari8989/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
-
----
-
 ### ✍️ Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
+---
+
+### 🌐 Connect with me:
+
+<p align="center">
+  <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aniket-tiwari-a89142289/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/anikettiwari8989/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  
 ---
 
 ### Languages
@@ -60,11 +59,8 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
 > #### Q. Which programming language is the shortest?  
 > **A. Pyhton.** Because it doesn't bite. 😄
